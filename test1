@@ -1,0 +1,45 @@
+Script started on Tue May  7 08:57:03 2019
+[?1034hbash-3.2$ java flightSearch
+Please run this program with the following format: java flightSearch cityFile flightFile
+bash-3.2$ java flightSearch cityFile.txt flightFile.txt
+from what city would you like to depart
+Chicago
+Which city would you like to go to
+San Francisco
+Searching for flights from: Chicago to: San Francisco...
+No Direct Flights... 
+sorry we don't serve that route
+Would you like to run another search? (y/n)
+y
+from what city would you like to depart
+San Diego
+Which city would you like to go to
+Japan
+Searching for flights from: San Diego to: Japan...
+No Direct Flights... 
+The cost to fly from: San Diego to: Chicago is: 1245
+The cost to fly from: Chicago to: Albuquerque is: 508
+The cost to fly from: Albuquerque to: Los Angeles is: 250
+The cost to fly from: Los Angeles to: San Diego is: 5489
+The cost to fly from: San Diego to: New York is: 70
+The cost to fly from: New York to: Chicago is: 850
+The cost to fly from: Chicago to: Los Angeles is: 230
+The cost to fly from: Los Angeles to: Japan is: 1900
+The total cost of the trip is: 10542 dollars
+Would you like to run another search? (y/n)
+y
+from what city would you like to depart
+New York
+Which city would you like to go to
+Albuquerque
+Searching for flights from: New York to: Albuquerque...
+No Direct Flights... 
+The cost to fly from: New York to: Chicago is: 850
+The cost to fly from: Chicago to: Albuquerque is: 508
+The total cost of the trip is: 1358 dollars
+Would you like to run another search? (y/n)
+n
+bash-3.2$ exit
+exit
+
+Script done on Tue May  7 08:59:19 2019

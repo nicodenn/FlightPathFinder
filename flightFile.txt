@@ -1,0 +1,20 @@
+Chicago,Albuquerque,508
+Albuquerque,Los Angeles,250
+Chicago,Los Angeles,230
+San Diego,Chicago,1245
+Los Angeles,San Diego,5489
+Albuquerque,Chicago,650
+Chicago,Japan,2550
+Japan,Albuquerque,238
+San Francisco,Japan,1872
+San Francisco,Los Angeles,130
+Los Angeles,Japan,1900
+Japan,Amsterdam,20
+San Francisco,Amsterdam,1578
+Amsterdam,Japan,680
+Amsterdam,Albuquerque,15000
+San Diego,New York,70
+Japan,Istanbul,800
+New York,Istanbul,90
+New York,Istanbul,200
+New York,Chicago,850

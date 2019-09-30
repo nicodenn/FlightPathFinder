@@ -1,0 +1,41 @@
+Script started on Tue May  7 09:01:29 2019
+[?1034hbash-3.2$ java cityFile.txt flightFile.txt[C[1@ [1@f[1@l[1@i[1@g[1@h[1@t[1@S[1@e[1@a[1@r[1@c[1@h[C[1@ [1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+from what city would you like to depart
+Istanbl ul
+Which city would you like to go to
+San Francisco
+Searching for flights from: Istanbul to: San Francisco...
+No Direct Flights... 
+sorry we don't serve that route
+Would you like to run another search? (y/n)
+y
+from what city would you like to depart
+istanbu       SI  Istanbul
+Which city would you like to go to
+Amsterdan m
+Searching for flights from: Istanbul to: Amsterdam...
+No Direct Flights... 
+sorry we don't serve that route
+Would you like to run another search? (y/n)
+y
+from what city would you like to depart
+Amsterdam
+Which city would you like to go to
+IStan    sti amb  nbul
+Searching for flights from: Amsterdam to: Istanbul...
+No Direct Flights... 
+The cost to fly from: Amsterdam to: Japan is: 680
+The cost to fly from: Japan to: Albuquerque is: 238
+The cost to fly from: Albuquerque to: Los Angeles is: 250
+The cost to fly from: Los Angeles to: San Diego is: 5489
+The cost to fly from: San Diego to: Chicago is: 1245
+The cost to fly from: Chicago to: Albuquerque is: 508
+The cost to fly from: Albuquerque to: Chicago is: 650
+The cost to fly from: Chicago to: Los Angeles is: 230
+The cost to fly from: Los Angeles to: Japan is: 1900
+The cost to fly from: Japan to: Istanbul is: 800
+The total cost of the trip is: 11990 dollars
+Would you like to run another search? (y/n)
+n
+bash-3.2$ nano test2
+[?1049h[1;65r(B[m[4l[?7h[?12l[?25h[?1h=[?1h=[?1h=[39;49m[39;49m(B[m[H[2J(B[0;7m  GNU nano 2.0.6                                     File: test2                                                                                [3;1H(B[mScript started on Tue May  7 09:01:29 2019[4d^[[?1034hbash-3.2$ java cityFile.txt flightFile.txt^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^[[C^[[1@ ^H^[[1@f^[[1@l^[[1@i^[[1@g$[5;1Hfrom what city would you like to depart[6dIstanbl^H ^Hul[7dWhich city would you like to go to[8dSan Francisco[9dSearching for flights from: Istanbul to: San Francisco...[10dNo Direct Flights...[11dsorry we don't serve that route[12dWould you like to run another search? (y/n)[13dy[14dfrom what city would you like to depart[15distanbu^H ^H^H ^H^H ^H^H ^H^H ^H^H ^H^H ^HSI^H ^H^H ^HIstanbul[16dWhich city would you like to go to[17dAmsterdan^H ^Hm[18dSearching for flights from: Istanbul to: Amsterdam...[19dNo Direct Flights...[20dsorry we don't serve that route[21dWould you like to run another search? (y/n)[22dy[23dfrom what city would you like to depart[24dAmsterdam[25dWhich city would you like to go to[26dIStan^H ^H^H ^H^H ^H^H ^Hsti^H ^Hamb^H ^H^H ^Hnbul[27dSearching for flights from: Amsterdam to: Istanbul...[28dNo Direct Flights...[29dThe cost to fly from: Amsterdam to: Japan is: 680[30dThe cost to fly from: Japan to: Albuquerque is: 238[31dThe cost to fly from: Albuquerque to: Los Angeles is: 250[32dThe cost to fly from: Los Angeles to: San Diego is: 5489[33dThe cost to fly from: San Diego to: Chicago is: 1245[34dThe cost to fly from: Chicago to: Albuquerque is: 508[35dThe cost to fly from: Albuquerque to: Chicago is: 650[36dThe cost to fly from: Chicago to: Los Angeles is: 230[37dThe cost to fly from: Los Angeles to: Japan is: 1900[38dThe cost to fly from: Japan to: Istanbul is: 800[39dThe total cost of the trip is: 11990 dollars[40dWould you like to run another search? (y/n)[41dn[42dbash-3.2$ nano test[63;50H(B[0;7m[ Read 40 lines (Converted from DOS format) ][64d^G(B[m Get Help[64;25H(B[0;7m^O(B[m WriteOut[64;49H(B[0;7m^R(B[m Read File[64;73H(B[0;7m^Y(B[m Prev Page[64;97H(B[0;7m^K(B[m Cut Text[64;121H(B[0;7m^C(B[m Cur Pos[65d(B[0;7m^X(B[m Exit[65;25H(B[0;7m^J(B[m Justify[65;49H(B[0;7m^W(B[m Where Is[65;73H(B[0;7m^V(B[m Next Page[65;97H(B[0;7m^U(B[m UnCut Text[65;121H(B[0;7m^T(B[m To Spell[3d
